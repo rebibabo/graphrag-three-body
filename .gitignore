@@ -136,3 +136,9 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+.idea
+lancedb
+local
+ragtest
+docs/内容梳理.txt
+doupotest/
